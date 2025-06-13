@@ -1,11 +1,11 @@
 # **TIS-UAP-Expert**
 
-**Nama Anggota Kelompok:**
+## **Nama Anggota Kelompok:**
 - Ayudya Nandira Afifah (235150707111020)
 - Jessica Fidela (235150707111015)
 
-**Kontribusi Anggota:**
-_**1. Jessica :**_
+## **Kontribusi Anggota:**
+_**Jessica :**_
 - Membuat migrations untuk tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
 - Membuat seeder (MahasiswaSeeder.php, MatakuliahSeeder.php, MahasiswaMatakuliahSeeder.php) untuk mengisi tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
 - Membuat model (Mahasiswa.php, Matakuliah.php, MahasiswaMatakuliah) untuk merepresentasikan tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
@@ -19,7 +19,7 @@ _**1. Jessica :**_
   5) GET /matkul/nim
 - Melakukan uji coba untuk seluruh endpoint di atas
 
-_**2. Ayudya :**_
+_**Ayudya :**_
 - Membuat migrations untuk tabel prodis dan migrations untuk menambahkan foreign key prodi_id pada tabel mahasiswas
 - Memodifikasi MahasiswaSeeder.php untuk mengisi tabel mahasiswas dengan atribut tambahan yaitu foreign key prodi_id
 - Memodifikasi model Mahasiswa.php untuk menambahkan relasi tabel mahasiswas dengan tabel prodis dan membuat model Prodi.php untuk merepresentasikan tabel prodis
@@ -31,7 +31,7 @@ _**2. Ayudya :**_
 - Melakukan uji coba untuk seluruh endpoint di atas
 - Melakukan editing video presentasi
 
-**Dokumentasi Endpoint (ss Postman):**
+## **Dokumentasi Endpoint (ss Postman):**
 1) POST /register
 2) POST /login
 3) GET /mahasiswa
@@ -41,6 +41,6 @@ _**2. Ayudya :**_
 7) POST /matkul/tambah
 8) GET /matkul/nim
 
-**Link Video Presentasi:**
+## **Link Video Presentasi:**
 
-**ERD DB dan SS DB:**
+## **ERD DB dan SS DB:**
