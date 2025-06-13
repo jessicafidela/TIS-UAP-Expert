@@ -33,13 +33,22 @@
 
 ## **Dokumentasi Endpoint (ss Postman):**
 1. POST /register
+![register](./assets/register.png)
 2. POST /login
+![login](./assets/login.png)
 3. GET /mahasiswa
+
 4. GET /prodi
+
 5. GET /mahasiswa/prodi/{id}
+
 6. GET /matkul
+![lihatmatkul](./assets/matkul.png)
 7. POST /matkul/tambah
-8. GET /matkul/nim
+![tambahmatkul1](./assets/tambah_matkul_1.png)
+![tambahmatkul2](./assets/tambah_matkul_2.png)
+9. GET /matkul/nim
+![matkulmahasiswa](./assets/matkul_mahasiswa.png)
 
 ## **Link Video Presentasi:**
 
