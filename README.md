@@ -52,7 +52,7 @@
 ![matkulmahasiswa](./assets/matkul_mahasiswa.png)
 
 ## **Link Video Presentasi:**
-
+Video Presentasi: https://drive.google.com/file/d/1gwCJLj_cugBP8UqbRnjOyvMsTAQ0dOpi/view?usp=sharing
 ## **ERD DB dan SS DB:**
 1. ERD DB
 ![erddb](./assets/ERD%20UAP.JPG)
