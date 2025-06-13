@@ -8,7 +8,7 @@
 _**Jessica :**_
 - Membuat migrations untuk tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
 - Membuat seeder (MahasiswaSeeder.php, MatakuliahSeeder.php, MahasiswaMatakuliahSeeder.php) untuk mengisi tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
-- Membuat model (Mahasiswa.php, Matakuliah.php, MahasiswaMatakuliah) untuk merepresentasikan tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
+- Membuat model (Mahasiswa.php, Matakuliah.php, MahasiswaMatakuliah.php) untuk merepresentasikan tabel mahasiswas, matakuliahs, dan mahasiswa_matakuliah
 - Membuat middleware Authenticate.php
 - Membuat controller AuthController.php dan MatkulController.php
 - Membuat dan mendefinisikan endpoint berikut ke dalam web.php:
