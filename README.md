@@ -54,3 +54,7 @@
 ## **Link Video Presentasi:**
 
 ## **ERD DB dan SS DB:**
+1. ERD DB
+![erddb](./assets/ERD%20UAP.JPG)
+2. SS DB
+![SSdb](./assets/ss_db.JPG)
