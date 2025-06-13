@@ -37,11 +37,11 @@
 2. POST /login
 ![login](./assets/login.png)
 3. GET /mahasiswa
-
+![lihatmahasiswa](./assets/mahasiswa.png)
 4. GET /prodi
-
+![lihatprodi](./assets/prodi.png)
 5. GET /mahasiswa/prodi/{id}
-
+![listmahasiswadalamprodi](./assets/mahasiswa_prodi.png)
 6. GET /matkul
 ![lihatmatkul](./assets/matkul.png)
 7. POST /matkul/tambah
